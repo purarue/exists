@@ -7,7 +7,7 @@ This receives paths from standard input, and prints any that exist; Works for fi
 ### Install
 
 ```
-git clone https://github.com/seanbreckenridge/exists
+git clone https://github.com/purarue/exists
 cd exists
 make install
 ```
